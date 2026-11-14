@@ -1,0 +1,14 @@
+MapAI_BE-main/.config/dotnet-tools.json
+MapAI_BE-main/.dockerignore
+MapAI_BE-main/.gitignore
+MapAI_BE-main/Dockerfile
+MapAI_BE-main/src/.gitignore
+MapAI_BE-main/src/MapAI.API/MapAI.API.csproj
+MapAI_BE-main/src/MapAI.API/Properties/launchSettings.json
+MapAI_BE-main/src/MapAI.API/appsettings.Development.json
+MapAI_BE-main/src/MapAI.API/appsettings.json
+MapAI_BE-main/src/MapAI.Application/MapAI.Application.csproj
+MapAI_BE-main/src/MapAI.Common/MapAI.Common.csproj
+MapAI_BE-main/src/MapAI.Domain/MapAI.Domain.csproj
+MapAI_BE-main/src/MapAI.Infrastructure/MapAI.Infrastructure.csproj
+MapAI_BE-main/src/MapAI.sln

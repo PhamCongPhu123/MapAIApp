@@ -1,0 +1,9 @@
+MapAI_BE-main/src/MapAI.Infrastructure/Interfaces/IAiRepository.cs
+MapAI_BE-main/src/MapAI.Infrastructure/Interfaces/IFoursquareRepository.cs
+MapAI_BE-main/src/MapAI.Infrastructure/Interfaces/ILocationRepository.cs
+MapAI_BE-main/src/MapAI.Infrastructure/Interfaces/IOsmRepository.cs
+MapAI_BE-main/src/MapAI.Infrastructure/Repositories/FoursquareRepository.cs
+MapAI_BE-main/src/MapAI.Infrastructure/Repositories/GeminiRepository.cs
+MapAI_BE-main/src/MapAI.Infrastructure/Repositories/LocationRepository.cs
+MapAI_BE-main/src/MapAI.Infrastructure/Repositories/OsmRepository.cs
+MapAI_BE-main/src/MapAI.Infrastructure/TemplatePrompts/AiPrompt.cs

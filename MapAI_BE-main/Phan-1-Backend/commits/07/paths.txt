@@ -1,0 +1,6 @@
+MapAI_BE-main/src/MapAI.Application/Services/AiService.cs
+MapAI_BE-main/src/MapAI.Application/Services/CommunityLocationService.cs
+MapAI_BE-main/src/MapAI.Application/Services/FoursquareService.cs
+MapAI_BE-main/src/MapAI.Application/Services/LocationService.cs
+MapAI_BE-main/src/MapAI.Application/Services/MapCommandRouter.cs
+MapAI_BE-main/src/MapAI.Application/Services/MapService.cs

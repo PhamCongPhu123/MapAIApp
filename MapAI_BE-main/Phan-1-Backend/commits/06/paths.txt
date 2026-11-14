@@ -1,0 +1,11 @@
+MapAI_BE-main/src/MapAI.Application/Exceptions/AuthException.cs
+MapAI_BE-main/src/MapAI.Application/Exceptions/CommunityConflictException.cs
+MapAI_BE-main/src/MapAI.Application/Interfaces/IAiService.cs
+MapAI_BE-main/src/MapAI.Application/Interfaces/IAuthService.cs
+MapAI_BE-main/src/MapAI.Application/Interfaces/ICommunityLocationService.cs
+MapAI_BE-main/src/MapAI.Application/Interfaces/IFoursquareService.cs
+MapAI_BE-main/src/MapAI.Application/Interfaces/ILocationService.cs
+MapAI_BE-main/src/MapAI.Application/Interfaces/IMapService.cs
+MapAI_BE-main/src/MapAI.Application/Interfaces/ITokenStoreService.cs
+MapAI_BE-main/src/MapAI.Application/Services/AuthService.cs
+MapAI_BE-main/src/MapAI.Application/Services/TokenStoreService.cs

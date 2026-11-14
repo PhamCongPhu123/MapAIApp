@@ -1,0 +1,10 @@
+MapAI_BE-main/src/MapAI.Infrastructure/Interfaces/IAccountTokenRepository.cs
+MapAI_BE-main/src/MapAI.Infrastructure/Interfaces/IEmailRepository.cs
+MapAI_BE-main/src/MapAI.Infrastructure/Interfaces/IJwtRepository.cs
+MapAI_BE-main/src/MapAI.Infrastructure/Interfaces/IStorageRepository.cs
+MapAI_BE-main/src/MapAI.Infrastructure/Interfaces/IUserRepository.cs
+MapAI_BE-main/src/MapAI.Infrastructure/Repositories/AccountTokenRepository.cs
+MapAI_BE-main/src/MapAI.Infrastructure/Repositories/EmailRepository.cs
+MapAI_BE-main/src/MapAI.Infrastructure/Repositories/JwtRepository.cs
+MapAI_BE-main/src/MapAI.Infrastructure/Repositories/StorageRepository.cs
+MapAI_BE-main/src/MapAI.Infrastructure/Repositories/UserRepository.cs
