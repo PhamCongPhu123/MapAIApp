@@ -1,6 +1,15 @@
-﻿.vs/
-bin/
-obj/
+# Local secrets and generated files
+**/node_modules/
+**/bin/
+**/obj/
+**/dist/
+**/test-results/
+**/playwright-report/
+**/.env
+**/.env.*
+!**/.env.example
+!**/.env.*.example
+**/appsettings.Local.json
 *.user
-.env
-TestResults/
+.DS_Store
+handoff-packages/
